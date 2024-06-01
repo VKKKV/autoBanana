@@ -2,9 +2,8 @@
 
 ![alt text](demonstrate.gif)
 
-## use
+## usage
 ```cmd
 pip install pywin32
 python testClick.py
 ```
-- tap the window
